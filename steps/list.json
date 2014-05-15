@@ -1,0 +1,198 @@
+[
+    {
+        "uri": "start.html",
+        "id": "title",
+        "class": "step title",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "born.html",
+        "id": "born",
+        "class": "step",
+        "data": {
+            "x": 1500,
+            "y": 600,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "what-do-i-do.html",
+        "id": "what-do-i-do",
+        "class": "step",
+        "data": {
+            "x": 1750,
+            "y": 1300,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "where-do-i-do-that.html",
+        "id": "where-do-i-do-that",
+        "class": "step",
+        "data": {
+            "x": 2200,
+            "y": 4500,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "whats-my-job-there.html",
+        "id": "whats-my-job-there",
+        "class": "step",
+        "data": {
+            "x": 2250,
+            "y": 3000,
+            "z": 0,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "what-is-my-job-in-the-tools-team.html",
+        "id": "what-is-my-job-in-the-tools-team",
+        "class": "step",
+        "data": {
+            "x": 3600,
+            "y": 3400,
+            "z": 0,
+            "scale": 0.5,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "what-technologies-do-i-use-there.html",
+        "id": "what-technologies-do-i-use-there",
+        "class": "step",
+        "data": {
+            "x": 4100,
+            "y": 3400,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 50,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "what-is-my-job-in-the-webs-team.html",
+        "id": "what-is-my-job-in-the-webs-team",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 3400,
+            "z": 0,
+            "scale": 0.6,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "my-first-website.html",
+        "id": "my-first-website",
+        "class": "step",
+        "data": {
+            "x": 1300,
+            "y": 3400,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 80,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "html5.html",
+        "id": "html5",
+        "class": "step",
+        "data": {
+            "x": 1600,
+            "y": 3800,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 170,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "workflow.html",
+        "id": "workflow",
+        "class": "step",
+        "data": {
+            "x": 1900,
+            "y": 3400,
+            "z": 0,
+            "scale": 0.6,
+            "rotate-x": 80,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "other-tools-i-love.html",
+        "id": "other-tools-i-love",
+        "class": "step",
+        "data": {
+            "x": 2800,
+            "y": 2600,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "experiments.html",
+        "id": "experiments",
+        "class": "step",
+        "data": {
+            "x": 2800,
+            "y": 1800,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 30,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "end.html",
+        "id": "end",
+        "class": "step",
+        "data": {
+            "x": 2800,
+            "y": 700,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 60,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    }
+]
